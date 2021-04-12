@@ -7,3 +7,4 @@ shop/migrations
 myshop/.env
 cart/__pycache__
 cart/migrations
+orders/migrations
